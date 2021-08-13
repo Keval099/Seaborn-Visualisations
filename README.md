@@ -1,4 +1,4 @@
-# Seaborn-Visualisations
+# Seaborn-Visualizations
 These files contain different plots created with Seaborn. 
 It contains plots of:
 - Numerical variables
